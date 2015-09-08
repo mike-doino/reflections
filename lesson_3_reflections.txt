@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	Fork clones data with a reference back to the original creator.
 	Clone copies the data in the same repository - no link exists to the original.
 	Branch is adding something new to the existing repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	You can add your changes without being connected to the internet.
